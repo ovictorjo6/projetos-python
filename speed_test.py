@@ -1,4 +1,3 @@
-import optparse
 import speedtest
 
 st = speedtest.Speedtest()
