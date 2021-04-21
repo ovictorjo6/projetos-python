@@ -1,3 +1,5 @@
+#pip install instaloader
+
 import instaloader as insta
 
 ob = insta.Instaloader()
