@@ -1,3 +1,5 @@
+#pip install pytube
+
 from pytube import YouTube
 
 def Download(link):
